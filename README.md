@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RijulMarhatta
-- 👀 I’m interested in python,java,html,selenium, testNG,Javascript
+- 👀 I’m interested in python,java,html,selenium,css,testNG,Javascript
 - 🌱 I’m currently learning all the above mentioned
 - 💞️ I’m looking to collaborate on all the above mentioned
 - 📫 How to reach me mailto:rijulmarhatta@gmail.com
